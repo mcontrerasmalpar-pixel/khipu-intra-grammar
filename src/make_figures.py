@@ -133,9 +133,9 @@ def fig2_h3_cooccurrence():
 
 def fig3_cataloger_invariance():
     dd = pd.read_csv(RES / "deep_dive_fdr_1000.csv")
-    cats = ["UR", "AS", "HP", "JC"]
-    sub = dd[dd["cataloger"].isin(cats)]
-    grp = sub.groupby("cataloger").agg(
+    dd["cat_grp"] = np.where(dd["cataloger"].isin(["UR", "AS", "HP"]), dd["cataloger"], "Other")
+    cats = ["UR", "AS", "HP", "Other"]
+    grp = dd.groupby("cat_grp").agg(
         n=("KHIPU_ID", "count"),
         h3a=("h3_col_p", lambda x: 100 * (x.dropna() < 0.05).mean()),
         h3b=("h3_val_p", lambda x: 100 * (x.dropna() < 0.05).mean()),
@@ -151,8 +151,8 @@ def fig3_cataloger_invariance():
     ax.axhline(5.0, color="#c0392b", ls="--", lw=1.2, label="Chance (5%)")
     ax.set_xticks(x)
     ax.set_xticklabels([f"{c}\n(n={int(grp.loc[c, 'n'])})" for c in cats])
-    ax.set_ylabel("% of khipus significant (p < 0.05)")
-    ax.set_title("H4. Intra-khipu grammar persists across all major OKR catalogers")
+    ax.set_ylabel("% of testable khipus (raw p < 0.05)")
+    ax.set_title("H4. Intra-khipu grammar across cataloger groups (Kruskal-Wallis p >= 0.26)")
     ax.set_ylim(0, 72)
     ax.legend(fontsize=8.5, ncol=2)
     plt.tight_layout()
