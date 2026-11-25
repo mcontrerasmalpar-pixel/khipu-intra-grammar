@@ -166,28 +166,30 @@ def fig4_h5_sums_vs_null():
     c = h5.dropna(subset=["h5c_hits"])
 
     cats = [
-        "H5b: Within-cluster\nfirst/last subtotal\n(n=494 khipus)",
-        "H5c: Cross-group\nfirst/last slot sum\n(n=244 khipus)",
-        "H5c: Cross-group\nany-row slot sum\n(n=244 khipus)",
+        "H5b: Within-cluster\nfirst/last subtotal\n(n=494; p=0.868)",
+        "H5c: Cross-group\nfirst/last slot sum\n(n=244; agg p<=0.001)",
+        "H5c: Cross-group\nany-row slot sum\n(n=244; agg p=0.056)",
     ]
-    obs = [b["h5b_hits"].sum(), c["h5c_hits"].sum(), c["h5c_any_hits"].sum()]
-    nul = [b["h5b_null"].sum(), c["h5c_null"].sum(), c["h5c_any_null"].sum()]
+    obs = [int(b["h5b_hits"].sum()), int(c["h5c_hits"].sum()), int(c["h5c_any_hits"].sum())]
+    # Null expectations from N=500 (H5b) and N=1,000 aggregate Monte Carlo (H5c, round2_checks.py)
+    nul = [round(float(b["h5b_null"].sum()), 1), 18.0, 33.9]
 
-    fig, ax = plt.subplots(figsize=(8.2, 4.4))
+    fig, ax = plt.subplots(figsize=(8.4, 4.5))
     x = np.arange(len(cats))
     w = 0.34
     ax.bar(x - w / 2, obs, width=w, color="#1f4e79", label="Observed exact sums")
     ax.bar(x + w / 2, nul, width=w, color="#bdbdbd", label="Expected under within-khipu null")
     for i in range(len(cats)):
         ratio = obs[i] / max(nul[i], 1e-9)
-        ax.text(x[i] - w / 2, obs[i] + 1.0, f"{int(obs[i])}", ha="center", fontsize=9, fontweight="bold")
+        ax.text(x[i] - w / 2, obs[i] + 1.0, f"{obs[i]}", ha="center", fontsize=9, fontweight="bold")
         ax.text(x[i] + w / 2, nul[i] + 1.0, f"{nul[i]:.1f}", ha="center", fontsize=9)
-        ax.text(x[i], max(obs[i], nul[i]) + 4.0, f"{ratio:.2f}×", ha="center", fontsize=9.5, color="#c0392b" if ratio < 1.1 else "#1b9e77", fontweight="bold")
+        ax.text(x[i], max(obs[i], nul[i]) + 4.0, f"{ratio:.2f}×", ha="center", fontsize=9.5,
+                color="#1b9e77" if i == 1 else "#c0392b", fontweight="bold")
     ax.set_xticks(x)
     ax.set_xticklabels(cats)
     ax.set_ylabel("Total non-trivial exact sum hits across corpus")
     ax.set_ylim(0, max(obs) + 12)
-    ax.set_title("H5. Within-khipu exact sums vs permutation null calibration (N_PERM = 500)")
+    ax.set_title("H5. Within-khipu exact sums vs null calibration (H5c aggregate N=1,000)")
     ax.legend(fontsize=8.5)
     plt.tight_layout()
     plt.savefig(FIGS / "fig4_h5_sums_vs_null.png", dpi=200, bbox_inches="tight")
