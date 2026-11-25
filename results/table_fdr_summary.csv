@@ -1,0 +1,8 @@
+test,n,median,wilcoxon_p,raw_p05_pct,fdr_q05_n,fdr_q05_pct
+"H1a NMI(cluster, color) [circular]",443,0.0164,1.75e-19,26.0,0,0.0
+H2a Color -> jump [circular],359,0.2163,2.72e-10,17.0,0,0.0
+H2b Cluster -> jump [circular],384,0.4188,1.60e-26,23.2,0,0.0
+Pure COLOR (inside cluster),318,0.1217,3.88e-04,16.0,14,4.4
+Pure CLUSTER (same color),148,0.3316,2.10e-05,21.6,19,12.8
+H3a Color positional homology,299,0.1132,4.89e-33,48.5,133,44.5
+H3b Numeric R^2 positional homology,326,0.128,2.88e-35,48.8,133,40.8

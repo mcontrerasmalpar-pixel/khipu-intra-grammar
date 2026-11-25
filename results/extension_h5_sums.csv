@@ -1,0 +1,513 @@
+KHIPU_ID,OKR_NUM,cataloger,museum,n_pendants,clean_dec_frac,h5a_n_tops,h5a_hits,h5b_n_cl,h5b_hits,h5b_null,h5b_p,h5c_G,h5c_m,h5c_hits,h5c_null,h5c_p,h5c_any_hits,h5c_any_null,h5c_any_p
+1000000,KH0255,UR,"Centro Mallqui, Leymebamba, Amazonas",13,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000002,KH0256,UR,"Centro Mallqui, Leymebamba, Amazonas",24,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000003,KH0254,UR,"Centro Mallqui, Leymebamba, Amazonas",31,0.935,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000004,KH0246,UR,"Centro Mallqui, Leymebamba, Amazonas",159,0.969,0,0,22,0.0,0.0,1.0,5,7,0.0,0.014,1.0,0.0,0.046,1.0
+1000005,KH0241,UR,"Centro Mallqui, Leymebamba, Amazonas",49,0.735,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000006,KH0243,UR,"Centro Mallqui, Leymebamba, Amazonas",45,0.867,0,0,11,0.0,0.69,1.0,9,3,0.0,0.0,1.0,0.0,0.046,1.0
+1000007,KH0247,UR,"Centro Mallqui, Leymebamba, Amazonas",176,0.943,0,0,23,0.0,0.0,1.0,15,5,0.0,0.0,1.0,0.0,0.002,1.0
+1000008,KH0249,UR,"Centro Mallqui, Leymebamba, Amazonas",24,0.958,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000009,KH0248,UR,"Centro Mallqui, Leymebamba, Amazonas",50,0.92,0,0,6,1.0,0.508,0.5089820359281437,0,0,,,,,,
+1000010,KH0251,UR,"Centro Mallqui, Leymebamba, Amazonas",65,0.923,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000011,KH0250,UR,"Centro Mallqui, Leymebamba, Amazonas",23,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000012,KH0238,UR,"Centro Mallqui, Leymebamba, Amazonas",72,0.958,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000013,KH0220,AS,"Lowie Museum, University of California, Berkeley",30,1.0,0,0,7,0.0,0.0,1.0,6,3,0.0,0.0,1.0,0.0,0.24,1.0
+1000014,KH0221,AS,"Lowie Museum, University of California, Berkeley",37,1.0,0,0,9,0.0,0.0,1.0,9,4,0.0,0.134,1.0,0.0,0.34,1.0
+1000015,KH0224,AS,"Museum of Culture History, University of California, Los Angeles",30,1.0,0,0,5,0.0,0.0,1.0,4,6,0.0,0.068,1.0,0.0,0.11,1.0
+1000017,KH0230,AS,"Field Museum of Natural History, Chicago, IL",30,0.867,0,0,5,0.0,0.0,1.0,3,6,0.0,0.08,1.0,0.0,0.104,1.0
+1000018,KH0252,UR,"Centro Mallqui, Leymebamba, Amazonas",222,0.959,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000019,KH0245,UR,"Centro Mallqui, Leymebamba, Amazonas",149,0.987,0,0,10,0.0,0.0,1.0,0,0,,,,,,
+1000020,KH0239,UR,"Centro Mallqui, Leymebamba, Amazonas",281,0.982,0,0,11,0.0,0.0,1.0,0,0,,,,,,
+1000021,KH0253,UR,"Centro Mallqui, Leymebamba, Amazonas",95,0.979,0,0,11,0.0,0.0,1.0,3,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000022,KH0257,UR,"Centro Mallqui, Leymebamba, Amazonas",136,0.985,0,0,17,0.0,0.324,1.0,3,5,0.0,0.204,1.0,1.0,1.768,1.0
+1000023,KH0237,UR,"Centro Mallqui, Leymebamba, Amazonas",406,0.993,0,0,23,0.0,0.0,1.0,6,16,1.0,0.052,0.05389221556886228,1.0,0.16,0.15169660678642716
+1000024,KH0240,UR,"Centro Mallqui, Leymebamba, Amazonas",472,0.998,0,0,40,0.0,0.924,1.0,8,5,0.0,0.0,1.0,1.0,0.99,0.6946107784431138
+1000025,KH0242,UR,"Centro Mallqui, Leymebamba, Amazonas",570,0.993,0,0,28,0.0,0.0,1.0,13,22,0.0,0.204,1.0,0.0,0.634,1.0
+1000026,KH0219,AS,"Lowie Museum, University of California, Berkeley",10,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000027,KH0222,AS,"Lowie Museum, University of California, Berkeley",12,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000028,KH0223,AS,"Lowie Museum, University of California, Berkeley",10,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000029,KH0225,AS,"Museum of Science, Buffalo, New York",201,0.896,0,0,28,0.0,0.304,1.0,16,6,0.0,0.0,1.0,0.0,0.01,1.0
+1000030,KH0226,AS,"Museum of Science, Buffalo, New York",17,0.471,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000031,KH0227,AS,"Museum of Science, Buffalo, New York",14,0.571,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000032,KH0229,AS,"Royal Ontario Museum, Toronto",56,1.0,0,0,6,0.0,0.0,1.0,4,9,0.0,0.008,1.0,0.0,0.004,1.0
+1000033,KH0231,AS,"N195161prstkovo Museum, Prague",50,0.9,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000034,KH0232,AS,"Joslyn Art Museum, Omaha, Nebraska",65,1.0,0,0,12,0.0,0.0,1.0,5,5,0.0,0.076,1.0,0.0,0.094,1.0
+1000035,KH0233,AS,"owner Leo J. Harris, St. Paul, Minnesota",18,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000036,KH0234,AS,"Hood Museum of Art, Dartmouth College, Hanover, New Hampshire",20,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000037,KH0235,AS,"Hood Museum of Art, Dartmouth College, Hanover, New Hampshire",27,1.0,0,0,5,0.0,0.0,1.0,4,4,0.0,0.324,1.0,0.0,0.41,1.0
+1000039,KH0110,UR,"Museum für Völkerkunde, Berlin",64,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000040,KH0111,UR,"Museum für Völkerkunde, Berlin",80,0.975,0,0,15,0.0,0.0,1.0,10,5,0.0,0.01,1.0,0.0,0.052,1.0
+1000041,KH0112,UR,"Museum für Völkerkunde, Berlin",48,1.0,0,0,16,0.0,0.0,1.0,16,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000042,KH0113,UR,"Museum für Völkerkunde, Berlin",66,1.0,0,0,8,0.0,0.0,1.0,3,10,4.0,1.454,0.043912175648702596,4.0,1.926,0.11377245508982035
+1000044,KH0115,AS,"Museum für Völkerkunde, Berlin",16,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000045,KH0258,UR,"Centro Mallqui, Leymebamba, Amazonas",266,0.951,0,0,30,0.0,0.0,1.0,7,9,0.0,0.006,1.0,0.0,0.036,1.0
+1000046,KH0116,UR,"Museum für Völkerkunde, Berlin",18,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000047,KH0117,UR,"Museum für Völkerkunde, Berlin",43,1.0,0,0,4,0.0,0.0,1.0,3,12,0.0,0.058,1.0,0.0,0.05,1.0
+1000048,KH0118,UR,"Ethnologisches Museum, Berlin, Germany",21,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000049,KH0119,UR,"Museum für Völkerkunde, Berlin",12,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000050,KH0120,UR,"Museum für Völkerkunde, Berlin",49,0.98,0,0,8,0.0,0.0,1.0,4,4,0.0,0.03,1.0,0.0,0.044,1.0
+1000051,KH0121,UR,"Museum für Völkerkunde, Berlin",29,0.966,0,0,4,1.0,0.684,0.6846307385229541,0,0,,,,,,
+1000052,KH0122,UR,"Museum für Völkerkunde, Berlin",34,1.0,0,0,0,,,,0,0,,,,,,
+1000053,KH0123,UR,"Museum für Völkerkunde, Berlin",287,1.0,0,0,61,1.0,0.41,0.4111776447105788,40,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000054,KH0124,AS,"Museum für Völkerkunde, Berlin",20,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000056,KH0126,AS,"Museum für Völkerkunde, Berlin",42,1.0,0,0,8,0.0,0.0,1.0,4,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000057,KH0127,UR,"Museum für Völkerkunde, Berlin",163,1.0,0,0,14,0.0,0.0,1.0,7,11,0.0,0.0,1.0,0.0,0.112,1.0
+1000058,KH0175,AS,"Museum für Völkerkunde, Berlin",35,0.771,0,0,4,1.0,0.294,0.2954091816367265,3,7,0.0,0.046,1.0,0.0,0.174,1.0
+1000059,KH0190,AS,"Museum für Völkerkunde, Berlin",13,0.692,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000060,KH0191,AS,"Museum für Völkerkunde, Berlin",13,0.769,0,0,0,,,,0,0,,,,,,
+1000063,KH0128,UR,"Museum für Völkerkunde, Berlin",339,0.979,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000064,KH0176,AS,"Museum für Völkerkunde, Berlin",23,1.0,0,0,4,0.0,0.0,1.0,3,6,1.0,0.274,0.25349301397205587,1.0,0.312,0.2774451097804391
+1000065,KH0208,AS,"American Museum of Natural History, NY",101,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000067,KH0210,AS,"American Museum of Natural History, NY",10,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000071,KH0129,AS,"Museum für Völkerkunde, Berlin",48,1.0,0,0,14,0.0,0.508,1.0,8,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000072,KH0130,UR,"Museum für Völkerkunde, Berlin",13,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000073,KH0131,UR,"Museum für Völkerkunde, Berlin",11,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000074,KH0132,UR,"Museum für Völkerkunde, Berlin",15,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000076,KH0134,UR,"Museum für Völkerkunde, Berlin",32,0.969,0,0,4,0.0,0.0,1.0,4,8,3.0,0.004,0.001996007984031936,3.0,0.008,0.001996007984031936
+1000077,KH0135,UR,"Museum für Völkerkunde, Berlin",280,1.0,0,0,80,0.0,0.0,1.0,70,3,0.0,0.028,1.0,0.0,0.25,1.0
+1000079,KH0137,UR,"Museum für Völkerkunde, Berlin",70,0.986,0,0,7,0.0,0.0,1.0,7,10,0.0,0.0,1.0,0.0,0.012,1.0
+1000080,KH0138,UR,"Museum für Völkerkunde, Berlin",35,1.0,0,0,6,0.0,0.0,1.0,4,6,0.0,0.064,1.0,0.0,0.104,1.0
+1000081,KH0139,UR,"Museum für Völkerkunde, Berlin",23,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000082,KH0140,AS,"Museum für Völkerkunde, Berlin",16,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000083,KH0141,UR,"Museum für Völkerkunde, Berlin",104,1.0,0,0,13,0.0,0.0,1.0,6,10,0.0,0.0,1.0,0.0,0.0,1.0
+1000085,KH0143,AS,"Museum für Völkerkunde, Berlin",269,1.0,0,0,23,0.0,0.0,1.0,15,10,0.0,0.0,1.0,0.0,0.0,1.0
+1000086,KH0144,AS,"Museum für Völkerkunde, Berlin",14,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000087,KH0145,UR,"Museum für Völkerkunde, Berlin",16,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000088,KH0146,AS,"Museum für Völkerkunde, Berlin",195,1.0,0,0,21,0.0,0.0,1.0,12,10,0.0,0.0,1.0,0.0,0.0,1.0
+1000089,KH0147,UR,"Museum für Völkerkunde, Berlin",146,1.0,0,0,14,0.0,0.0,1.0,13,10,0.0,0.0,1.0,0.0,0.002,1.0
+1000090,KH0148,AS,"Museum für Völkerkunde, Berlin",11,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000091,KH0149,AS,"Museum für Völkerkunde, Berlin",47,0.979,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000092,KH0150,AS,"Museum für Völkerkunde, Berlin",13,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000093,KH0151,UR,"Museum für Völkerkunde, Berlin",22,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000094,KH0152,UR,"Museum für Völkerkunde, Berlin",181,0.956,0,0,20,0.0,0.0,1.0,20,9,0.0,0.0,1.0,0.0,0.01,1.0
+1000096,KH0082,AS,"owner Percy Dauelsberg, Arica, Chile",1650,0.981,0,0,218,0.0,0.0,1.0,114,7,0.0,0.0,1.0,0.0,0.0,1.0
+1000097,KH0033,AS,"Peabody Museum, Harvard University",54,1.0,0,0,7,0.0,0.0,1.0,5,8,0.0,0.014,1.0,0.0,0.068,1.0
+1000098,KH0272,UR,"Peabody Museum, Harvard University",33,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000099,KH0273,UR,"Peabody Museum, Harvard University",43,1.0,0,0,8,0.0,0.0,1.0,3,5,0.0,0.088,1.0,0.0,0.562,1.0
+1000100,KH0274,UR,"Peabody Museum, Harvard University",25,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000101,KH0032,AS,"Peabody Museum, Harvard University",22,0.364,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000103,KH0034,UR,"Peabody Museum, Harvard University",415,0.995,0,0,102,1.0,2.056,0.9261477045908184,51,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000105,KH0035,UR,"Peabody Museum, Harvard University",12,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000106,KH0036,UR,"Peabody Museum, Harvard University",18,1.0,0,0,6,0.0,0.634,1.0,6,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000107,KH0037,UR,"Peabody Museum, Harvard University",15,1.0,0,0,0,,,,0,0,,,,,,
+1000108,KH0038,UR,"Peabody Museum, Harvard University",25,1.0,0,0,1,1.0,0.648,0.6487025948103793,0,0,,,,,,
+1000110,KH0040,UR,"Peabody Museum, Harvard University",21,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000113,KH0154,UR,"Museum für Völkerkunde, Berlin",35,0.943,0,0,5,0.0,0.0,1.0,5,7,0.0,0.0,1.0,0.0,0.018,1.0
+1000114,KH0155,AS,"Museum für Völkerkunde, Berlin",13,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000115,KH0156,UR,"Museum für Völkerkunde, Berlin",180,1.0,0,0,20,0.0,0.0,1.0,20,9,0.0,0.0,1.0,0.0,0.0,1.0
+1000116,KH0157,UR,"Museum für Völkerkunde, Berlin",20,1.0,0,0,0,,,,0,0,,,,,,
+1000117,KH0158,AS,"Museum für Völkerkunde, Berlin",12,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000118,KH0159,UR,"Museum für Völkerkunde, Berlin",30,1.0,0,0,5,0.0,0.0,1.0,3,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000119,KH0160,UR,"Museum für Völkerkunde, Berlin",62,1.0,0,0,15,0.0,0.0,1.0,15,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000120,KH0161,UR,"Museum für Völkerkunde, Berlin",88,0.784,0,0,8,0.0,0.0,1.0,4,7,1.0,0.088,0.08982035928143713,2.0,0.162,0.003992015968063872
+1000121,KH0162,UR,"Museum für Völkerkunde, Berlin",110,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000122,KH0163,UR,"Museum für Völkerkunde, Berlin",18,1.0,0,0,0,,,,0,0,,,,,,
+1000123,KH0164,UR,"Museum für Völkerkunde, Berlin",20,1.0,0,0,0,,,,0,0,,,,,,
+1000124,KH0165,UR,"Museum für Völkerkunde, Berlin",112,0.991,0,0,25,0.0,0.0,1.0,13,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000125,KH0166,UR,"Museum für Völkerkunde, Berlin",27,0.852,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000126,KH0167,UR,"Museum für Völkerkunde, Berlin",23,0.957,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000127,KH0168,UR,"Museum für Völkerkunde, Berlin",80,1.0,0,0,17,2.0,0.876,0.19560878243512975,6,4,0.0,0.0,1.0,0.0,0.03,1.0
+1000128,KH0169,AS,"Museum für Völkerkunde, Berlin",21,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000131,KH0172,AS,"Museum für Völkerkunde, Berlin",65,0.985,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000132,KH0173,AS,"Museum für Völkerkunde, Berlin",18,0.944,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000133,KH0174,AS,"Museum für Völkerkunde, Berlin",18,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000135,KH0178,UR,"Museum für Völkerkunde, Berlin",16,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000137,KH0180,UR,"Museum für Völkerkunde, Berlin",26,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000138,KH0181,AS,"Museum für Völkerkunde, Berlin",22,0.955,0,0,4,0.0,0.0,1.0,3,6,0.0,0.23,1.0,0.0,0.186,1.0
+1000139,KH0182,UR,"Museum für Völkerkunde, Berlin",19,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000140,KH0183,UR,"Museum für Völkerkunde, Berlin",222,0.991,0,0,20,0.0,0.0,1.0,19,11,0.0,0.044,1.0,0.0,0.18,1.0
+1000142,KH0185,AS,"Museum für Völkerkunde, Berlin",18,1.0,0,0,0,,,,0,0,,,,,,
+1000143,KH0186,AS,"Museum für Völkerkunde, Berlin",30,0.933,0,0,8,0.0,0.498,1.0,4,4,1.0,0.252,0.23552894211576847,2.0,0.35,0.03992015968063872
+1000144,KH0187,AS,"Museum für Völkerkunde, Berlin",101,0.921,0,0,16,0.0,0.0,1.0,9,7,0.0,0.002,1.0,0.0,0.012,1.0
+1000145,KH0188,AS,"Museum für Völkerkunde, Berlin",23,1.0,0,0,0,,,,0,0,,,,,,
+1000146,KH0189,AS,"Museum für Völkerkunde, Berlin",32,0.969,0,0,4,1.0,0.648,0.6487025948103793,3,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000147,KH0192,UR,"Museum für Völkerkunde, Berlin",224,1.0,0,0,45,0.0,0.396,1.0,44,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000148,KH0193,UR,"Museum für Völkerkunde, Berlin",219,0.982,0,0,25,0.0,0.0,1.0,14,8,0.0,0.0,1.0,0.0,0.0,1.0
+1000149,KH0194,AS,"Museum für Völkerkunde, Berlin",15,0.667,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000150,KH0195,AS,"Museum für Völkerkunde, Berlin",29,0.931,0,0,7,0.0,0.0,1.0,7,4,0.0,0.006,1.0,0.0,0.014,1.0
+1000151,KH0196,UR,"Museum für Völkerkunde, Berlin",27,1.0,0,0,6,0.0,0.0,1.0,5,3,0.0,0.0,1.0,0.0,0.024,1.0
+1000152,KH0197,UR,"Museum für Völkerkunde, Berlin",27,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000158,KH0203,AS,"Museum für Völkerkunde, Berlin",23,0.739,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000159,KH0204,AS,"Museum für Völkerkunde, Berlin",32,0.781,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000161,KH0206,AS,"Museum für Völkerkunde, Berlin",12,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000162,KH0207,AS,"Museum für Völkerkunde, Berlin",23,1.0,0,0,4,0.0,0.5,1.0,3,6,0.0,0.232,1.0,0.0,0.232,1.0
+1000163,KH0216,AS,"American Museum of Natural History, NY",19,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000164,KH0217,AS,"American Museum of Natural History, NY",73,1.0,0,0,12,0.0,0.0,1.0,11,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000165,KH0218,AS,"American Museum of Natural History, NY",37,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000166,KH0011,AS,"Niedersächsische Landesmuseum, Hanover, West Germany",25,1.0,0,0,5,0.0,0.0,1.0,4,3,1.0,0.206,0.20758483033932135,1.0,0.22,0.2215568862275449
+1000167,KH0012,AS,"Niedersächsische Landesmuseum, Hanover, West Germany",15,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000169,KH0064,UR,"Museo de Ica, Ica, Peru",20,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000170,KH0063,UR,"Museo de Ica, Ica, Peru",20,1.0,0,0,4,0.0,0.0,1.0,4,5,2.0,0.97,0.22554890219560877,2.0,1.018,0.25748502994011974
+1000171,KH0071,AS,"O. Nunez del Prado, Cuzco",15,1.0,0,0,4,0.0,0.664,1.0,3,4,1.0,0.258,0.25948103792415167,2.0,0.738,0.18163672654690619
+1000172,KH0091,AS,"Musee Quai Branly, Paris, France",27,0.926,0,0,7,0.0,0.0,1.0,4,3,0.0,0.21,1.0,0.0,0.396,1.0
+1000174,KH0086,AS,,25,0.96,0,0,5,0.0,0.0,1.0,5,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000176,KH0069,UR,"Museo de Ica, Ica, Peru",38,0.974,0,0,9,1.0,0.368,0.36926147704590817,5,4,0.0,0.132,1.0,0.0,0.446,1.0
+1000178,KH0073,AS,"O. Nunez del Prado, Cuzco",16,1.0,0,0,0,,,,0,0,,,,,,
+1000179,KH0065,AS,"Museo de Ica, Ica, Peru",21,0.952,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000180,KH0013,AS,"Niedersächsische Landesmuseum, Hanover, West Germany",85,1.0,0,0,6,0.0,0.0,1.0,3,12,0.0,0.0,1.0,0.0,0.0,1.0
+1000183,KH0068,UR,"Museo de Ica, Ica, Peru",557,0.996,0,0,50,0.0,0.0,1.0,23,7,0.0,0.044,1.0,0.0,0.124,1.0
+1000184,KH0014,AS,"Niedersächsische Landesmuseum, Hanover, West Germany",89,0.978,0,0,10,0.0,0.0,1.0,3,9,0.0,0.334,1.0,0.0,0.494,1.0
+1000185,KH0015,AS,British Museum,42,0.238,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000186,KH0016,AS,"University Museum, University of Pennsylvania",12,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000188,KH0018,AS,"University Museum, University of Pennsylvania",20,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000191,KH0021,AS,"University Museum, University of Pennsylvania",10,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000192,KH0022,AS,"University Museum, University of Pennsylvania",54,0.981,0,0,6,0.0,0.0,1.0,5,9,0.0,0.026,1.0,0.0,0.072,1.0
+1000197,KH0027,AS,"University Museum, University of Pennsylvania",54,1.0,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000198,KH0028,AS,"University Museum, University of Pennsylvania",105,0.8,0,0,11,0.0,0.0,1.0,7,10,0.0,0.092,1.0,0.0,0.322,1.0
+1000199,KH0029,AS,"University Museum, University of Pennsylvania",19,0.947,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000200,KH0030,AS,"University Museum, University of Pennsylvania",49,0.857,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000201,KH0031,AS,"Museum Voor Land-en Volkenkunde, Rotterdam, Holland",87,0.989,0,0,12,0.0,0.0,1.0,3,6,0.0,0.056,1.0,0.0,0.07,1.0
+1000204,KH0043,AS,Brooklyn Museum,16,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000207,KH0046,AS,Brooklyn Museum,37,1.0,0,0,8,0.0,0.0,1.0,4,4,0.0,0.062,1.0,0.0,0.152,1.0
+1000208,KH0051,UR,"Museo Nacional, Lima, Peru",27,1.0,0,0,3,0.0,0.0,1.0,3,9,0.0,0.1,1.0,0.0,0.182,1.0
+1000209,KH0052,AS,"Museo Nacional, Lima, Peru",32,1.0,0,0,8,0.0,0.0,1.0,5,4,0.0,0.0,1.0,0.0,0.052,1.0
+1000210,KH0053,AS,"Museo Nacional, Lima, Peru",11,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000211,KH0054,AS,"Museo Nacional, Lima, Peru",27,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000212,KH0056,AS,"Museo Nacional, Lima, Peru",40,0.975,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000213,KH0050,AS,"Museo Nacional, Lima, Peru",36,1.0,0,0,10,1.0,0.52,0.5209580838323353,5,4,0.0,0.204,1.0,0.0,0.186,1.0
+1000214,KH0062,UR,"Museo Nacional, Lima, Peru",30,0.967,0,0,5,0.0,0.0,1.0,5,6,0.0,0.044,1.0,0.0,0.03,1.0
+1000220,KH0089,AS,"Musee de l Homme, Paris, France",15,0.333,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000221,KH0090,AS,"Musee de l Homme, Paris, France",33,0.727,0,0,9,0.0,0.0,1.0,6,4,1.0,0.006,0.007984031936127744,1.0,0.06,0.06187624750499002
+1000222,KH0093,AS,"Musee de l Homme, Paris, France",16,0.875,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000223,KH0075,AS,"O. Nunez del Prado, Cuzco",24,1.0,0,0,3,0.0,0.0,1.0,3,8,1.0,0.26,0.2315369261477046,1.0,0.384,0.3473053892215569
+1000228,KH0099,AS,"Museum fur Volkerkunde, Basel, Switzerland",45,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000229,KH0059,AS,"Museo Amano, Lima, Peru",52,0.962,0,0,12,0.0,0.526,1.0,11,4,0.0,0.022,1.0,0.0,0.052,1.0
+1000230,KH0060,UR,"Museo Amano, Lima, Peru",61,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000231,KH0098,AS,"Musee d Ethnographie, Geneva, Switzerland",42,1.0,0,0,5,0.0,0.0,1.0,3,12,0.0,0.0,1.0,0.0,0.0,1.0
+1000232,KH0102,AS,"Museum Fur Volkerkunde, Munich, W. Germany",27,0.963,0,0,8,0.0,0.0,1.0,8,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000233,KH0103,AS,"Museum Fur Volkerkunde, Munich, W. Germany",56,0.25,0,0,8,0.0,0.0,1.0,3,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000234,KH0105,AS,"Museum Fur Volkerkunde, Munich, W. Germany",56,1.0,0,0,10,0.0,0.0,1.0,8,6,0.0,0.032,1.0,0.0,0.068,1.0
+1000235,KH0047,AS,"Museo """"Jijon y Caamano"""", Pontificia Universidad Catolica del Ecuador, Quito, Ecuador",74,0.932,0,0,7,0.0,0.0,1.0,3,13,0.0,0.596,1.0,1.0,0.922,0.6367265469061876
+1000236,KH0048,AS,"Museo """"Jijon y Caamano"""", Pontificia Universidad Catolica del Ecuador, Quito, Ecuador",78,0.974,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000238,KH0279,UR,Museo Larco,238,0.983,0,0,24,0.0,0.0,1.0,7,7,0.0,0.02,1.0,0.0,0.028,1.0
+1000239,KH0278,UR,Museo Larco,45,1.0,0,0,9,0.0,0.296,1.0,8,4,0.0,0.026,1.0,0.0,0.146,1.0
+1000240,KH0277,UR,Museo Larco,43,0.977,0,0,5,0.0,0.0,1.0,3,10,0.0,0.0,1.0,0.0,0.0,1.0
+1000241,KH0276,UR,Museo Larco,76,1.0,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000243,KH0299,UR,Puruchuco Museum,22,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000244,KH0314,UR,Puruchuco Museum,12,1.0,0,0,0,,,,0,0,,,,,,
+1000245,KH0306,UR,Puruchuco Museum,32,0.969,0,0,5,0.0,0.0,1.0,3,5,0.0,0.134,1.0,0.0,0.114,1.0
+1000246,KH0298,UR,Puruchuco Museum,41,1.0,0,0,10,0.0,0.0,1.0,9,4,0.0,0.002,1.0,0.0,0.028,1.0
+1000247,KH0307,UR,Puruchuco Museum,26,1.0,0,0,6,0.0,0.0,1.0,6,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000248,KH0308,UR,Puruchuco Museum,26,1.0,0,0,4,0.0,0.0,1.0,3,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000249,KH0309,UR,Puruchuco Museum,61,0.951,0,0,10,0.0,0.0,1.0,4,6,0.0,0.176,1.0,0.0,0.392,1.0
+1000250,KH0310,UR,Puruchuco Museum,74,0.959,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000251,KH0311,UR,Puruchuco Museum,66,0.985,0,0,12,0.0,0.0,1.0,6,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000252,KH0312,UR,Puruchuco Museum,13,1.0,0,0,0,,,,0,0,,,,,,
+1000253,KH0313,UR,Puruchuco Museum,24,0.917,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000254,KH0315,UR,Puruchuco Museum,11,0.909,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000255,KH0316,UR,Puruchuco Museum,30,0.9,0,0,5,0.0,0.0,1.0,3,6,1.0,0.172,0.17365269461077845,1.0,0.418,0.38323353293413176
+1000256,KH0317,UR,Puruchuco Museum,14,1.0,0,0,0,,,,0,0,,,,,,
+1000258,KH0319,UR,Puruchuco Museum,44,1.0,0,0,6,0.0,0.0,1.0,4,7,0.0,0.0,1.0,0.0,0.0,1.0
+1000259,KH0300,UR,Puruchuco Museum,111,0.964,0,0,8,0.0,0.0,1.0,3,20,1.0,0.284,0.25349301397205587,1.0,0.478,0.3872255489021956
+1000260,KH0304,UR,,32,0.969,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000261,KH0303,UR,Puruchuco Museum,32,0.938,0,0,6,0.0,0.0,1.0,5,4,0.0,0.02,1.0,0.0,0.08,1.0
+1000262,KH0305,UR,Puruchuco Museum,73,0.973,0,0,17,0.0,0.0,1.0,15,4,0.0,0.002,1.0,0.0,0.008,1.0
+1000263,KH0301,UR,Puruchuco Museum,71,0.986,0,0,6,0.0,0.162,1.0,0,0,,,,,,
+1000264,KH0297,UR,Puruchuco Museum,112,0.991,0,0,17,0.0,0.668,1.0,4,5,0.0,0.026,1.0,0.0,0.694,1.0
+1000265,KH0283,UR,Banco Central de la Reserva,49,0.959,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000266,KH0284,UR,Banco Central de la Reserva,36,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000267,KH0285,UR,Banco Central de la Reserva,61,0.984,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000268,KH0286,UR,Banco Central de la Reserva,72,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000269,KH0287,UR,Banco Central de la Reserva,70,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000270,KH0324,UR,Museo Temple Radicati,54,0.981,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000271,KH0327,UR,Museo Temple Radicati,90,0.989,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000272,KH0328,UR,Museo Temple Radicati,60,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000273,KH0323,UR,Museo Temple Radicati,306,0.997,13,0,38,0.0,0.34,1.0,34,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000274,KH0326,UR,Museo Temple Radicati,108,0.991,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000275,KH0325,UR,Museo Temple Radicati,206,0.985,0,0,7,0.0,0.0,1.0,4,6,0.0,0.004,1.0,0.0,0.034,1.0
+1000277,KH0270,UR,"Museo Amano, Lima, Peru",39,0.949,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000279,KH0083,AS,Museo Chileno de Arte Precolombino,88,0.955,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000280,KH0321,UR,Museo Temple Radicati,152,0.993,0,0,9,0.0,0.0,1.0,4,9,0.0,0.004,1.0,0.0,0.02,1.0
+1000283,KH0353,UR,"Museum for World Culture, Goteborg",22,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000285,KH0352,UR,"Museum for World Culture, Goteborg",80,0.963,0,0,7,0.0,0.484,1.0,0,0,,,,,,
+1000287,KH0350,UR,"Museum for World Culture, Goteborg",219,1.0,0,0,15,1.0,0.108,0.10978043912175649,4,18,0.0,0.008,1.0,0.0,0.036,1.0
+1000288,KH0354,UR,"Museum for World Culture, Goteborg",13,1.0,0,0,0,,,,0,0,,,,,,
+1000289,KH0355,UR,"Museum for World Culture, Goteborg",11,0.909,0,0,2,0.0,0.706,1.0,0,0,,,,,,
+1000291,KH0357,UR,"Museum for World Culture, Goteborg",24,0.958,0,0,3,1.0,0.652,0.6526946107784432,0,0,,,,,,
+1000292,KH0349,UR,"Museum for World Culture, Goteborg",332,0.91,0,0,30,0.0,0.0,1.0,5,5,0.0,0.0,1.0,0.0,0.076,1.0
+1000293,KH0358,UR,"Museum for World Culture, Goteborg",145,0.924,0,0,23,0.0,0.0,1.0,20,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000295,KH0290,UR,"Rijksmuseum fur Volkerkunde, Leiden, Holland",28,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000296,KH0291,UR,"Rijksmuseum fur Volkerkunde, Leiden, Holland",38,1.0,0,0,6,0.0,0.0,1.0,3,8,1.0,0.236,0.21756487025948104,1.0,0.252,0.23353293413173654
+1000297,KH0292,UR,"Rijksmuseum fur Volkerkunde, Leiden, Holland",24,1.0,0,0,5,0.0,0.0,1.0,4,4,0.0,0.138,1.0,0.0,0.254,1.0
+1000298,KH0294,UR,"Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile",58,0.897,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000299,KH0295,UR,"Museo Arqueologico San Miguel de Azapa (MASMA), Arica, Chile",48,0.917,0,0,5,0.0,0.192,1.0,3,10,1.0,0.062,0.06387225548902195,1.0,0.064,0.0658682634730539
+1000300,KH0370,UR,Museo Chileno de Arte Precolombino,56,0.929,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000301,KH0371,UR,Museo Chileno de Arte Precolombino,66,0.97,0,0,8,0.0,0.0,1.0,3,7,0.0,0.018,1.0,0.0,0.036,1.0
+1000302,KH0372,UR,Museo Chileno de Arte Precolombino,59,0.949,0,0,9,0.0,0.0,1.0,3,6,0.0,0.036,1.0,0.0,0.03,1.0
+1000303,KH0262,UR,"Museum Fur Volkerkunde, Munich, W. Germany",14,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000304,KH0263,UR,"Museum Fur Volkerkunde, Munich, W. Germany",76,0.987,0,0,5,0.0,0.0,1.0,3,20,3.0,3.25,0.7045908183632734,4.0,3.9,0.6007984031936128
+1000305,KH0264,UR,"Museum Fur Volkerkunde, Munich, W. Germany",35,1.0,0,0,7,2.0,0.77,0.13972055888223553,7,5,0.0,0.084,1.0,0.0,0.108,1.0
+1000306,KH0260,UR,"Museum Fur Volkerkunde, Munich, W. Germany",10,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000307,KH0259,UR,"Museum Fur Volkerkunde, Munich, W. Germany",10,0.9,0,0,2,0.0,0.394,1.0,0,0,,,,,,
+1000309,KH0293,UR,"Museum Fur Volkerkunde, Munich, W. Germany",21,1.0,0,0,4,0.0,0.0,1.0,3,6,0.0,0.088,1.0,0.0,0.108,1.0
+1000310,KH0100,UR,"Museum Fur Volkerkunde, Munich, W. Germany",89,0.472,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000312,KH0104,UR,"Museum Fur Volkerkunde, Munich, W. Germany",89,0.843,0,0,15,0.0,0.0,1.0,4,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000313,KH0101,UR,"Museum Fur Volkerkunde, Munich, W. Germany",87,1.0,0,0,23,1.0,0.674,0.6746506986027944,12,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000314,KH0108,UR,"Museum Fur Volkerkunde, Munich, W. Germany",146,0.384,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000315,KH0109,UR,"Museum Fur Volkerkunde, Munich, W. Germany",66,1.0,0,0,11,0.0,0.0,1.0,11,6,0.0,0.0,1.0,0.0,0.152,1.0
+1000316,KH0369,UR,Museo Chileno de Arte Precolombino,59,0.966,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000320,KH0360,UR,"Museum of Worldculture, Goteborg, Sweden",69,0.768,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000321,KH0329,UR,Museo Temple Radicati,223,1.0,0,0,12,1.0,0.124,0.12574850299401197,0,0,,,,,,
+1000322,KH0361,UR,"Museum of Worldculture, Goteborg, Sweden",23,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000323,KH0362,UR,"Museum of Worldculture, Goteborg, Sweden",72,0.986,0,0,4,0.0,0.0,1.0,4,18,2.0,0.006,0.001996007984031936,2.0,0.006,0.001996007984031936
+1000324,KH0363,UR,"Museum of Worldculture, Goteborg, Sweden",61,0.885,0,0,5,0.0,0.0,1.0,4,10,0.0,0.0,1.0,0.0,0.0,1.0
+1000325,KH0364,UR,"Museum of Worldculture, Goteborg, Sweden",43,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000327,KH0351,UR,"Museum of Worldculture, Goteborg, Sweden",29,0.966,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000328,KH0366,UR,"Museum of Worldculture, Goteborg, Sweden",22,1.0,0,0,3,0.0,0.0,1.0,3,7,0.0,0.116,1.0,0.0,0.154,1.0
+1000329,KH0359,UR,"Museum for World Culture, Goteborg",173,0.977,24,0,24,0.0,0.0,1.0,22,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000330,KH0265,UR,Phoebe Hearst Museum of Anthropology,38,0.816,0,0,6,0.0,0.0,1.0,4,6,0.0,0.086,1.0,0.0,0.138,1.0
+1000331,KH0269,UR,"Museo Amano, Lima, Peru",167,0.886,0,0,23,0.0,0.0,1.0,7,5,0.0,0.018,1.0,0.0,0.046,1.0
+1000332,KH0275,UR,Museo Larco,123,0.976,0,0,27,0.0,1.482,1.0,23,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000333,KH0042,UR,"National Museum, Smithsonian, Washington, D.C.",108,1.0,0,0,18,0.0,0.0,1.0,14,5,0.0,0.0,1.0,0.0,0.002,1.0
+1000335,KH0261,UR,"Museum Fur Volkerkunde, Munich, W. Germany",46,0.978,0,0,7,0.0,0.0,1.0,4,7,0.0,0.032,1.0,0.0,0.05,1.0
+1000336,KH0322,UR,Museo Temple Radicati,107,1.0,0,0,21,1.0,0.734,0.6067864271457086,11,4,0.0,0.004,1.0,0.0,0.016,1.0
+1000337,KH0330,UR,Museo Temple Radicati,25,0.96,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000338,KH0331,UR,Museo Temple Radicati,26,0.692,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000340,KH0333,UR,Museo Temple Radicati,81,0.975,0,0,9,1.0,0.644,0.6447105788423154,0,0,,,,,,
+1000342,KH0088,AS,"Musee de l Homme, Paris, France",186,0.952,0,0,33,0.0,0.306,1.0,20,5,0.0,0.0,1.0,0.0,0.122,1.0
+1000344,KH0097,UR,"Musee Quai Branly, Paris, France",319,1.0,0,0,25,0.0,0.0,1.0,10,14,0.0,0.004,1.0,0.0,0.014,1.0
+1000345,KH0055,AS,"Museo Nacional, Lima, Peru",87,0.977,0,0,16,0.0,0.0,1.0,12,6,0.0,0.018,1.0,0.0,0.018,1.0
+1000346,KH0092,AS,"Musee de l Homme, Paris, France",74,1.0,0,0,15,1.0,1.016,0.7884231536926147,9,6,0.0,0.08,1.0,0.0,0.582,1.0
+1000351,KH0338,UR,Museo Temple Radicati,63,1.0,0,0,12,0.0,0.0,1.0,8,4,0.0,0.024,1.0,0.0,0.114,1.0
+1000353,KH0340,UR,Museo Temple Radicati,16,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000356,KH0343,UR,Museo Temple Radicati,25,1.0,0,0,2,1.0,0.66,0.6606786427145709,0,0,,,,,,
+1000358,KH0345,UR,Museo Temple Radicati,10,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000359,KH0347,UR,Museo Temple Radicati,149,0.993,0,0,9,0.0,0.0,1.0,4,17,0.0,0.082,1.0,0.0,0.146,1.0
+1000361,KH0061,AS,"owner Ana Maria Soldi, Lima, Peru",313,0.997,0,0,17,0.0,0.0,1.0,12,18,0.0,0.026,1.0,1.0,0.242,0.20758483033932135
+1000363,KH0280,UR,Private Collection: Anna Maria Soldi,164,0.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000365,KH0106,AS,"Museum Fur Volkerkunde, Munich, W. Germany",70,0.986,0,0,10,0.0,0.0,1.0,8,7,0.0,0.0,1.0,0.0,0.012,1.0
+1000366,KH0087,AS,"Musee de l Homme, Paris, France",93,0.946,0,0,18,0.0,0.0,1.0,18,5,0.0,0.032,1.0,0.0,0.042,1.0
+1000368,KH0084,AS,"owner Percy Dauelsberg, Arica, Chile",252,1.0,0,0,23,0.0,0.0,1.0,10,7,0.0,0.0,1.0,0.0,0.0,1.0
+1000369,KH0079,AS,"O. Nunez del Prado, Cuzco",147,0.993,0,0,28,0.0,0.0,1.0,20,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000371,KH0080,AS,"O. Nunez del Prado, Cuzco",140,0.957,0,0,13,0.0,0.0,1.0,6,4,0.0,0.0,1.0,0.0,0.004,1.0
+1000374,KH0271,UR,Universidad de San Martin de Porres,91,0.264,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000375,KH0281,UR,Banco Central de la Reserva del Peru,93,0.183,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000376,KH0289,UR,"Museo Oro, Fundaci195179n Miguel Mujica Gallo",180,0.039,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000377,KH0367,UR,"Museum of Worldculture, Goteborg, Sweden",41,1.0,0,0,6,1.0,0.698,0.6986027944111777,3,8,0.0,0.0,1.0,0.0,0.0,1.0
+1000378,KH0368,UR,"Museum of Worldculture, Goteborg, Sweden",14,0.929,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000380,KH0267,UR,"Museo de la Nacion, Lima, Peru",87,0.92,0,0,11,1.0,0.694,0.6946107784431138,5,3,0.0,0.018,1.0,0.0,0.032,1.0
+1000381,KH0346,UR,Museo Temple Radicati,89,0.427,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000382,KH0348,UR,Museo Temple Radicati,76,0.5,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000383,KH0288,UR,Private Collection: Anna Maria Soldi,115,0.017,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000385,KH0282,UR,Banco Central de la Reserva,98,0.061,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000386,KH0378,UR,"Lowe Art Museum, University of Miami",22,0.909,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000387,KH0377,UR,"Lowe Art Museum, University of Miami",21,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000390,KH0296,UR,"Lowe Art Museum, University of Miami",133,0.955,0,0,8,0.0,0.0,1.0,3,7,1.0,0.164,0.1656686626746507,1.0,0.12,0.1217564870259481
+1000393,KH0402,UR,Museo Regional de Ica,17,1.0,0,0,4,0.0,0.0,1.0,3,4,0.0,0.114,1.0,0.0,0.206,1.0
+1000395,KH0401,UR,Valle de Ica Hacienda Callango Ocucaje,15,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000396,KH0228,AS,"Museum fur Volkerkunde, Vienna",168,0.994,0,0,16,0.0,0.0,1.0,7,6,0.0,0.012,1.0,0.0,0.056,1.0
+1000397,KH0400,UR,Museo Regional de Ica,18,0.944,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000398,KH0395,UR,Museo Regional de Ica,30,0.967,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000399,KH0394,UR,Museo Regional de Ica,20,0.7,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000400,KH0387,UR,Museo Regional de Ica,43,0.86,0,0,10,0.0,0.0,1.0,5,4,0.0,0.014,1.0,0.0,0.068,1.0
+1000401,KH0383,UR,Museo Regional de Ica,22,0.909,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000402,KH0392,UR,Museo Regional de Ica,24,1.0,0,0,6,0.0,0.0,1.0,6,3,0.0,0.044,1.0,0.0,0.136,1.0
+1000403,KH0393,UR,Museo Regional de Ica,51,0.961,0,0,12,0.0,0.0,1.0,6,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000404,KH0391,UR,Museo Regional de Ica,12,0.75,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000405,KH0390,UR,Museo Regional de Ica,17,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000406,KH0382,UR,Museo Regional de Ica,21,0.952,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000407,KH0379,UR,Museo Regional de Ica,102,0.931,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000408,KH0380,UR,Museo Regional de Ica,38,0.895,0,0,4,0.0,0.0,1.0,3,10,0.0,0.12,1.0,0.0,0.146,1.0
+1000409,KH0381,UR,Museo Regional de Ica,24,1.0,0,0,3,0.0,0.216,1.0,3,8,3.0,0.28,0.001996007984031936,3.0,0.292,0.001996007984031936
+1000413,KH0389,UR,Museo Regional de Ica,148,0.986,17,0,17,0.0,0.0,1.0,15,8,0.0,0.0,1.0,0.0,0.02,1.0
+1000415,KH0385,UR,Museo Regional de Ica,32,1.0,0,0,0,,,,0,0,,,,,,
+1000416,KH0397,UR,Museo Regional de Ica,10,0.7,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000417,KH0398,UR,Museo Regional de Ica,24,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000418,KH0386,UR,Museo Regional de Ica,46,0.978,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000419,KH0384,UR,On loan to Ica Museum,96,0.396,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000420,KH0533,HP,Museo de Sitio de Pachacamac,14,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000421,KH0534,HP,Museo de Sitio de Pachacamac,30,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000422,KH0535,HP,Museo de Sitio de Pachacamac,80,1.0,0,0,14,0.0,0.0,1.0,10,6,0.0,0.006,1.0,0.0,0.006,1.0
+1000423,KH0536,HP,Museo de Sitio de Pachacamac,13,0.923,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000424,KH0537,HP,Museo de Sitio de Pachacamac,21,1.0,0,0,5,0.0,0.0,1.0,4,4,0.0,0.194,1.0,0.0,0.296,1.0
+1000426,KH0539,HP,Museo de Sitio de Pachacamac,24,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000427,KH0540,HP,Museo de Sitio de Pachacamac,12,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000429,KH0542,HP,Museo de Sitio de Pachacamac,27,1.0,0,0,3,0.0,0.0,1.0,3,9,0.0,0.0,1.0,0.0,0.0,1.0
+1000430,KH0543,HP,Museo de Sitio de Pachacamac,28,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000431,KH0544,HP,Museo de Sitio de Pachacamac,51,1.0,0,0,9,0.0,0.0,1.0,6,6,0.0,0.012,1.0,0.0,0.024,1.0
+1000432,KH0545,HP,Museo de Sitio de Pachacamac,12,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000433,KH0546,HP,Museo de Sitio de Pachacamac,59,0.949,0,0,15,0.0,0.46,1.0,7,3,0.0,0.01,1.0,0.0,0.03,1.0
+1000436,KH0549,HP,Museo de Sitio de Pachacamac,100,1.0,0,0,19,0.0,0.0,1.0,9,5,0.0,0.002,1.0,0.0,0.016,1.0
+1000437,KH0550,HP,Museo de Sitio de Pachacamac,28,1.0,0,0,6,0.0,0.0,1.0,4,3,0.0,0.0,1.0,0.0,0.122,1.0
+1000438,KH0551,HP,Museo de Sitio de Pachacamac,22,0.682,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000439,KH0552,HP,Museo de Sitio de Pachacamac,26,0.577,0,0,4,0.0,0.4,1.0,0,0,,,,,,
+1000441,KH0554,HP,Museo de Sitio de Pachacamac,18,0.944,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000442,KH0555,HP,Museo de Sitio de Pachacamac,20,0.95,0,0,4,0.0,0.0,1.0,4,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000444,KH0557,HP,Museo de Sitio de Pachacamac,55,1.0,0,0,9,0.0,0.0,1.0,5,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000445,KH0558,HP,Museo de Sitio de Pachacamac,17,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000446,KH0559,HP,Museo de Sitio de Pachacamac,53,1.0,0,0,6,0.0,0.0,1.0,5,9,1.0,0.002,0.003992015968063872,1.0,0.002,0.003992015968063872
+1000447,KH0560,HP,Museo de Sitio de Pachacamac,10,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000448,KH0561,HP,Museo de Sitio de Pachacamac,63,1.0,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000449,KH0562,HP,Museo de Sitio de Pachacamac,107,1.0,0,0,12,0.0,0.0,1.0,11,9,0.0,0.0,1.0,0.0,0.002,1.0
+1000450,KH0563,HP,Museo de Sitio de Pachacamac,43,0.977,0,0,6,0.0,0.0,1.0,4,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000451,KH0564,HP,Museo de Sitio de Pachacamac,15,0.8,0,0,4,0.0,0.0,1.0,3,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000452,KH0374,UR,"Lowe Art Museum, University of Miami",12,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000453,KH0589,QU,Dallas Museum of Art,33,1.0,0,0,8,0.0,0.0,1.0,6,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000454,KH0591,QU,Dallas Museum of Art,39,0.872,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000455,KH0590,QU,Dallas Museum of Art,85,0.965,0,0,9,0.0,0.0,1.0,4,9,0.0,0.336,1.0,0.0,0.396,1.0
+1000456,KH0592,QU,Dallas Museum of Art,60,0.967,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000457,KH0593,QU,Dallas Museum of Art,57,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000458,KH0594,QU,Dallas Museum of Art,18,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000459,KH0595,QU,Dallas Museum of Art,89,1.0,0,0,22,0.0,0.0,1.0,22,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000460,KH0596,QU,Dallas Museum of Art,21,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000461,KH0597,QU,Dallas Museum of Art,160,1.0,0,0,10,0.0,0.0,1.0,6,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000462,KH0598,QU,Dallas Museum of Art,45,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000463,KH0599,QU,Dallas Museum of Art,120,1.0,0,0,14,0.0,0.0,1.0,3,8,0.0,0.0,1.0,0.0,0.0,1.0
+1000472,KH0404,UR,Puruchuco Museum,85,0.929,0,0,11,0.0,0.0,1.0,0,0,,,,,,
+1000474,KH0406,UR,"American Museum of Natural History, NY",37,0.946,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000475,KH0407,UR,"American Museum of Natural History, NY",17,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000477,KH0408,UR,"American Museum of Natural History, NY",41,1.0,0,0,8,0.0,0.0,1.0,7,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000478,KH0410,UR,"American Museum of Natural History, NY",40,0.825,0,0,5,0.0,0.0,1.0,3,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000479,KH0411,UR,"American Museum of Natural History, NY",28,1.0,0,0,7,0.0,0.0,1.0,7,4,0.0,0.016,1.0,0.0,0.106,1.0
+1000482,KH0420,UR,"American Museum of Natural History, NY",30,0.9,0,0,4,1.0,0.238,0.23952095808383234,0,0,,,,,,
+1000485,KH0416,UR,"American Museum of Natural History, NY",14,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000486,KH0418,UR,"American Museum of Natural History, NY",12,0.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000487,KH0421,UR,"American Museum of Natural History, NY",33,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000488,KH0422,UR,"American Museum of Natural History, NY",21,0.952,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000489,KH0417,UR,"American Museum of Natural History, NY",18,0.111,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000492,KH0409,UR,"American Museum of Natural History, NY",68,0.941,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000493,KH0001,LL,"American Museum of Natural History, NY",96,0.25,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000494,KH0415,UR,"American Museum of Natural History, NY",31,0.419,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000495,KH0425,UR,"American Museum of Natural History, NY",54,1.0,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000496,KH0405,UR,"American Museum of Natural History, NY",30,1.0,6,0,6,0.0,0.0,1.0,6,4,0.0,0.002,1.0,0.0,0.002,1.0
+1000497,KH0424,UR,"American Museum of Natural History, NY",58,0.862,7,0,8,0.0,0.0,1.0,5,6,0.0,0.01,1.0,0.0,0.028,1.0
+1000499,KH0426,UR,Musee Quai Branly,64,0.875,0,0,14,0.0,0.0,1.0,6,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000500,KH0427,UR,"Musee Quai Branly, Paris, France",49,0.939,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000501,KH0428,UR,"Musee Quai Branly, Paris, France",395,0.992,0,0,21,1.0,0.434,0.4351297405189621,3,6,0.0,0.0,1.0,1.0,0.414,0.36327345309381237
+1000502,KH0429,UR,"Musee Quai Branly, Paris, France",23,0.957,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000503,KH0430,UR,"Musee Quai Branly, Paris, France",59,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000504,KH0431,UR,"Ethnologisches Museum, Berlin, Germany",99,0.111,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000505,KH0432,UR,"Ethnologisches Museum, Berlin, Germany",35,0.971,0,0,4,0.0,0.0,1.0,3,9,0.0,0.144,1.0,1.0,0.256,0.22554890219560877
+1000506,KH0433,UR,"Ethnologisches Museum, Berlin, Germany",134,0.955,0,0,23,1.0,0.826,0.6646706586826348,13,4,0.0,0.0,1.0,0.0,0.002,1.0
+1000507,KH0434,UR,"Ethnologisches Museum, Berlin, Germany",78,0.782,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000508,KH0435,UR,"Ethnologisches Museum, Berlin, Germany",216,0.991,0,0,16,0.0,0.0,1.0,6,12,0.0,0.176,1.0,0.0,0.402,1.0
+1000509,KH0436,UR,"Ethnologisches Museum, Berlin, Germany",257,0.922,0,0,37,0.0,0.0,1.0,17,4,0.0,0.006,1.0,0.0,0.01,1.0
+1000510,KH0437,UR,"Ethnologisches Museum, Berlin, Germany",126,1.0,0,0,26,0.0,0.0,1.0,12,5,0.0,0.0,1.0,0.0,0.006,1.0
+1000511,KH0438,UR,"Ethnologisches Museum, Berlin, Germany",86,0.965,7,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000512,KH0439,UR,"Ethnologisches Museum, Berlin, Germany",110,0.973,9,0,9,0.0,0.0,1.0,4,12,0.0,0.02,1.0,0.0,0.022,1.0
+1000513,KH0440,UR,"Ethnologisches Museum, Berlin, Germany",77,1.0,0,0,9,0.0,0.0,1.0,4,8,0.0,0.304,1.0,0.0,0.67,1.0
+1000514,KH0441,UR,"Ethnologisches Museum, Berlin, Germany",113,0.274,0,0,8,0.0,0.0,1.0,0,0,,,,,,
+1000515,KH0442,UR,"Ethnologisches Museum, Berlin, Germany",30,0.833,0,0,4,0.0,0.0,1.0,4,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000516,KH0443,UR,"Ethnologisches Museum, Berlin, Germany",21,1.0,0,0,4,1.0,0.66,0.6606786427145709,0,0,,,,,,
+1000518,KH0445,UR,"Ethnologisches Museum, Berlin, Germany",117,0.957,0,0,8,0.0,0.0,1.0,0,0,,,,,,
+1000519,KH0446,UR,"Ethnologisches Museum, Berlin, Germany",148,1.0,0,0,31,0.0,0.0,1.0,25,5,0.0,0.004,1.0,0.0,0.006,1.0
+1000520,KH0447,UR,"Ethnologisches Museum, Berlin, Germany",71,0.93,0,0,9,1.0,0.2,0.20159680638722555,4,9,0.0,0.212,1.0,0.0,0.252,1.0
+1000521,KH0448,UR,"Ethnologisches Museum, Berlin, Germany",70,0.986,0,0,6,0.0,0.0,1.0,4,12,0.0,0.16,1.0,0.0,0.284,1.0
+1000522,KH0449,UR,"Ethnologisches Museum, Berlin, Germany",95,0.137,0,0,15,0.0,0.0,1.0,10,7,0.0,0.064,1.0,0.0,0.066,1.0
+1000523,KH0450,UR,"Ethnologisches Museum, Berlin, Germany",195,0.979,0,0,15,0.0,0.0,1.0,12,14,0.0,0.006,1.0,1.0,0.036,0.03792415169660679
+1000524,KH0451,UR,"Ethnologisches Museum, Berlin, Germany",102,0.971,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000525,KH0452,UR,"Ethnologisches Museum, Berlin, Germany",17,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000526,KH0453,UR,"Ethnologisches Museum, Berlin, Germany",137,0.854,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000527,KH0454,UR,"Ethnologisches Museum, Berlin, Germany",32,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000528,KH0455,UR,"Ethnologisches Museum, Berlin, Germany",87,0.954,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000529,KH0456,UR,"Ethnologisches Museum, Berlin, Germany",62,0.984,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000530,KH0457,UR,"Ethnologisches Museum, Berlin, Germany",65,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000532,KH0459,UR,"Ethnologisches Museum, Berlin, Germany",10,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000533,KH0460,UR,"Ethnologisches Museum, Berlin, Germany",44,0.955,0,0,7,0.0,0.0,1.0,4,6,0.0,0.392,1.0,0.0,0.806,1.0
+1000534,KH0461,UR,"Ethnologisches Museum, Berlin, Germany",80,1.0,0,0,9,0.0,0.0,1.0,8,9,0.0,0.0,1.0,0.0,0.042,1.0
+1000535,KH0462,UR,"Ethnologisches Museum, Berlin, Germany",23,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000536,KH0463,UR,"Ethnologisches Museum, Berlin, Germany",36,1.0,0,0,7,0.0,0.0,1.0,4,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000537,KH0464,UR,"Ethnologisches Museum, Berlin, Germany",24,1.0,0,0,0,,,,0,0,,,,,,
+1000538,KH0465,UR,"Ethnologisches Museum, Berlin, Germany",75,1.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000539,KH0466,UR,"Ethnologisches Museum, Berlin, Germany",189,0.989,0,0,18,0.0,0.0,1.0,9,11,0.0,0.004,1.0,0.0,0.018,1.0
+1000540,KH0467,UR,"Ethnologisches Museum, Berlin, Germany",36,0.972,0,0,5,0.0,0.504,1.0,0,0,,,,,,
+1000541,KH0468,UR,"Ethnologisches Museum, Berlin, Germany",864,1.0,0,0,80,0.0,0.0,1.0,59,11,0.0,0.0,1.0,0.0,0.002,1.0
+1000542,KH0469,UR,"Ethnologisches Museum, Berlin, Germany",125,1.0,0,0,21,0.0,0.0,1.0,20,6,0.0,0.0,1.0,0.0,0.002,1.0
+1000543,KH0470,UR,"Ethnologisches Museum, Berlin, Germany",126,1.0,0,0,21,0.0,0.0,1.0,18,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000544,KH0471,UR,"Ethnologisches Museum, Berlin, Germany",98,1.0,0,0,13,0.0,0.0,1.0,10,8,0.0,0.0,1.0,0.0,0.0,1.0
+1000545,KH0472,UR,"Ethnologisches Museum, Berlin, Germany",130,1.0,0,0,15,0.0,0.0,1.0,10,9,0.0,0.002,1.0,0.0,0.056,1.0
+1000546,KH0198,AS,"Ethnologisches Museum, Berlin, Germany",41,1.0,0,0,2,1.0,0.246,0.24750499001996007,0,0,,,,,,
+1000547,KH0478,UR,"Ethnologisches Museum, Berlin, Germany",206,0.995,0,0,19,0.0,0.232,1.0,15,8,0.0,0.002,1.0,0.0,0.068,1.0
+1000548,KH0479,UR,"Ethnologisches Museum, Berlin, Germany",28,0.929,0,0,9,0.0,0.0,1.0,9,3,0.0,0.004,1.0,0.0,0.042,1.0
+1000549,KH0477,UR,"Ethnologisches Museum, Berlin, Germany",44,0.886,4,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000551,KH0473,UR,"Ethnologisches Museum, Berlin, Germany",30,0.967,0,0,4,1.0,0.664,0.6646706586826348,3,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000552,KH0474,UR,"Ethnologisches Museum, Berlin, Germany",38,1.0,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000553,KH0475,UR,"Ethnologisches Museum, Berlin, Germany",50,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000554,KH0476,UR,"Ethnologisches Museum, Berlin, Germany",67,0.851,0,0,9,0.0,0.0,1.0,0,0,,,,,,
+1000555,KH0480,UR,"Ethnologisches Museum, Berlin, Germany",72,1.0,0,0,11,0.0,0.27,1.0,7,8,0.0,0.118,1.0,0.0,0.224,1.0
+1000556,KH0482,UR,"Ethnologisches Museum, Berlin, Germany",34,1.0,4,0,4,0.0,0.0,1.0,3,8,0.0,0.242,1.0,0.0,0.256,1.0
+1000558,KH0483,UR,"Ethnologisches Museum, Berlin, Germany",15,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000559,KH0484,UR,"Ethnologisches Museum, Berlin, Germany",21,0.952,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000560,KH0485,UR,"Ethnologisches Museum, Berlin, Germany",14,1.0,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000561,KH0486,UR,"Ethnologisches Museum, Berlin, Germany",19,1.0,0,0,4,2.0,1.358,0.4630738522954092,0,0,,,,,,
+1000562,KH0565,HP,"Museo Nacional de Arqueología, Antropología e Historia del Perú",24,0.208,0,0,3,0.0,0.0,1.0,3,8,0.0,0.0,1.0,0.0,0.0,1.0
+1000563,KH0566,HP,"Museo Nacional de Arqueología, Antropología e Historia del Perú",82,0.427,0,0,6,0.0,0.0,1.0,3,12,0.0,0.0,1.0,0.0,0.0,1.0
+1000564,KH0058,AS,"Museo Nacional de Arqueología, Antropología e Historia de Perú",81,0.21,0,0,10,0.0,0.0,1.0,6,8,0.0,0.0,1.0,0.0,0.0,1.0
+1000565,KH0049,AS,"Museo Nacional de Arqueología, Antropología e Historia de Perú",108,0.287,0,0,7,0.0,0.0,1.0,5,18,0.0,0.002,1.0,0.0,0.0,1.0
+1000566,KH0567,HP,"Museo Nacional de Historia, Archaeología y Antropología de Perú",26,0.423,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000567,KH0568,HP,"Museo Nacional de Arqueología, Antropología e Historia de Perú",30,0.833,0,0,0,,,,0,0,,,,,,
+1000569,KH0570,HP,"Museo Nacional de Arqueología, Antropología e Historia del Perú",22,0.409,0,0,3,0.0,0.0,1.0,3,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000570,KH0057,AS,"Museo Nacional de Arqueología, Antropología, e Historia del Perú",79,0.532,0,0,16,0.0,0.0,1.0,12,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000571,KH0571,HP,"Museo Nacional de Arqueología, Antropología, e Historia del Perú",53,0.925,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000572,KH0572,HP,"Museo Nacional de Arqueología, Antropología e Historia del Perú",11,0.182,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000573,KH0573,HP,"Museo Nacional de Arqueología, Antropología e Historia del Perú",15,0.333,0,0,0,,,,0,0,,,,,,
+1000574,KH0574,HP,"Museo Nacional de Arqueología, Antropología e Historia del Perú",51,0.706,0,0,8,0.0,0.0,1.0,0,0,,,,,,
+1000575,KH0575,HP,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",54,0.519,0,0,9,0.0,0.0,1.0,3,7,0.0,0.0,1.0,0.0,0.0,1.0
+1000576,KH0576,HP,"Museo Nacional de Arqueologia, Antropologia e Historia Nacional del Peru",61,0.525,0,0,9,0.0,0.0,1.0,6,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000577,KH0577,HP,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",32,0.75,3,0,4,0.0,0.0,1.0,3,6,0.0,0.0,1.0,0.0,0.0,1.0
+1000580,KH0580,HP,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",20,0.6,0,0,0,,,,0,0,,,,,,
+1000581,KH0581,HP,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",32,0.344,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000582,KH0582,HP,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",34,0.324,0,0,10,0.0,0.0,1.0,10,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000583,KH0583,HP,"Museo Nacional de Arqueologia, Antropologia e Historia del Peru",40,1.0,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000584,KH0584,HP,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",50,0.84,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000585,KH0585,HP,"Museo Nacion de Arqueologia, Anthropologia e Historia del Peru",19,0.316,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000586,KH0587,HP,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",162,0.173,0,0,15,0.0,0.0,1.0,6,9,0.0,0.0,1.0,0.0,0.0,1.0
+1000587,KH0588,HP,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",32,0.656,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000588,KH0586,HP,"Museo Nacional de Arqueologia, Anthropologia e Historia del Peru",189,0.392,0,0,15,0.0,0.0,1.0,11,11,0.0,0.004,1.0,0.0,0.018,1.0
+1000589,KH0487,UR,"Museum fur Volkerkunde, Leipzig",30,0.667,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000590,KH0488,UR,"Museum fur Volkerkunde, Leipzig",62,0.565,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000591,KH0489,UR,"Museum fur Volkerkunde, Leipzig",59,0.356,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000592,KH0490,UR,"Museum fur Volkerkunde, Leipzig",16,0.812,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000593,KH0569,HP,"Museo Nacional de Arqueologia, Anthropologia e Histora del Peru",100,0.33,0,0,13,0.0,0.0,1.0,12,7,0.0,0.012,1.0,0.0,0.008,1.0
+1000595,KH0493,UR,Projecto Arqueologico Incahuasi,10,0.5,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000597,KH0491,UR,Projecto Incahuasi,86,0.395,1,0,25,0.0,0.0,1.0,18,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000598,KH0492,UR,Proyecto Incahuasi,118,0.5,0,0,23,0.0,0.0,1.0,11,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000599,KH0494,UR,Proyecto Incahuasi,41,0.268,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000600,KH0495,UR,Proyecto Incahuasi,13,0.231,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000601,KH0496,UR,Proyecto Incahuasi,24,0.458,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000602,KH0497,UR,Proyecto Incahuasi,12,0.583,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000603,KH0498,UR,Proyecto Incahuasi,138,0.558,0,0,7,0.0,0.0,1.0,0,0,,,,,,
+1000604,KH0499,UR,Proyecto Incahuasi,236,0.669,0,0,52,0.0,0.7,1.0,28,3,0.0,0.0,1.0,0.0,0.004,1.0
+1000605,KH0500,UR,Proyecto Incahuasi,211,0.569,0,0,39,0.0,0.0,1.0,9,6,0.0,0.0,1.0,0.0,0.024,1.0
+1000606,KH0501,UR,Proyecto Incahuasi,14,0.429,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000607,KH0502,UR,Proyecto Incahuasi,132,0.447,0,0,27,0.0,0.0,1.0,10,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000608,KH0503,UR,Proyecto Incahuasi,82,0.256,0,0,26,0.0,0.0,1.0,25,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000609,KH0504,UR,Proyecto Incahuasi,103,0.524,0,0,26,3.0,2.044,0.2894211576846307,14,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000610,KH0505,UR,Proyecto Incahuasi,131,0.359,0,0,30,0.0,0.0,1.0,12,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000611,KH0506,UR,Proyecto Incahuasi,289,0.609,0,0,73,1.0,0.664,0.6646706586826348,60,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000612,KH0507,UR,Proyecto Incahuasi,162,0.488,0,0,20,0.0,0.0,1.0,7,9,0.0,0.0,1.0,0.0,0.01,1.0
+1000613,KH0508,UR,Proyecto Incahuasi,32,0.344,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000614,KH0509,UR,Proyecto Incahuasi,173,0.497,0,0,21,0.0,0.0,1.0,8,5,0.0,0.0,1.0,0.0,0.0,1.0
+1000615,KH0510,UR,Proyecto Incahuasi,83,0.783,0,0,18,0.0,0.0,1.0,13,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000616,KH0511,UR,Proyecto Incahuasi,114,0.842,0,0,20,0.0,0.0,1.0,7,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000617,KH0512,UR,Proyecto Inahuasi,93,0.796,0,0,22,0.0,0.0,1.0,17,3,0.0,0.0,1.0,0.0,0.002,1.0
+1000618,KH0513,UR,Proyecto Incahuasi,101,0.703,0,0,22,0.0,0.0,1.0,12,3,0.0,0.0,1.0,0.0,0.006,1.0
+1000619,KH0514,UR,Proyecto Incahuasi,112,0.241,0,0,26,0.0,0.0,1.0,9,3,0.0,0.0,1.0,0.0,0.0,1.0
+1000621,KH0518,UR,Proyecto Incahuasi,12,0.25,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000622,KH0516,UR,Proyecto Incahuasi,150,0.38,0,0,16,0.0,0.0,1.0,3,8,0.0,0.0,1.0,0.0,0.0,1.0
+1000623,KH0517,UR,Proyecto Incahuasi,298,0.265,0,0,32,0.0,0.0,1.0,26,9,0.0,0.0,1.0,0.0,0.0,1.0
+1000624,KH0519,UR,Proyecto Incahuasi,37,0.568,0,0,6,0.0,0.0,1.0,0,0,,,,,,
+1000625,KH0608,JC,Proyecto Incahuasi,36,0.583,0,0,8,0.0,0.0,1.0,4,4,0.0,0.194,1.0,0.0,0.254,1.0
+1000628,KH0611,JC,Proyecto Incahuasi,18,0.278,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000629,KH0612,JC,Proyecto Incahuasi,149,0.584,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000630,KH0613,JC,Proyecto Incahuasi,12,0.333,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000633,KH0616,JC,Proyecto Incahuasi,76,0.289,0,0,8,0.0,0.0,1.0,3,9,1.0,0.236,0.2315369261477046,1.0,0.504,0.43313373253493015
+1000634,KH0617,JC,Proyecto Incahuasi,160,0.762,0,0,17,0.0,0.0,1.0,5,7,0.0,0.732,1.0,0.0,0.694,1.0
+1000635,KH0618,JC,Proyecto Incahuasi,87,0.54,0,0,4,0.0,0.0,1.0,0,0,,,,,,
+1000636,KH0619,JC,Proyecto Incahuasi,30,0.567,0,0,3,0.0,0.0,1.0,3,10,0.0,0.0,1.0,0.0,0.0,1.0
+1000637,KH0620,JC,Proyecto Incahuasi,59,0.576,0,0,5,0.0,0.0,1.0,3,10,0.0,0.022,1.0,0.0,0.062,1.0
+1000638,KH0621,JC,Proyecto Incahuasi,10,0.0,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000639,KH0622,JC,Proyecto Incahuasi,10,0.3,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000642,KH0625,JC,Proyecto Incahuasi,10,0.9,0,0,3,0.0,0.0,1.0,0,0,,,,,,
+1000646,KH0629,JC,Proyecto Incahuasi,12,0.75,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000647,KH0630,JC,Proyecto Incahuasi,33,0.636,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000648,KH0081,AS,"Museo Nac., Pueblo Libre",215,0.265,0,0,34,0.0,0.0,1.0,22,7,0.0,0.0,1.0,0.0,0.002,1.0
+1000649,KH0520,UR,"Museo Nac., Pueblo Libre",32,0.656,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000650,KH0521,UR,"Museo Nac., Pueblo Libre",183,0.508,0,0,15,0.0,0.0,1.0,3,4,0.0,0.0,1.0,0.0,0.118,1.0
+1000651,KH0522,UR,"Museo Nac., Pueblo Libre",22,0.182,0,0,5,0.0,0.0,1.0,3,4,0.0,0.0,1.0,0.0,0.0,1.0
+1000652,KH0523,UR,"Museo Nac., Pueblo Libre",14,0.714,0,0,1,0.0,0.0,1.0,0,0,,,,,,
+1000654,KH0525,UR,"Museo Nac., Pueblo Libre",55,0.618,0,0,5,0.0,0.0,1.0,0,0,,,,,,
+1000655,KH0526,UR,"Museo Nac., Pueblo Libre",29,0.552,0,0,2,0.0,0.0,1.0,0,0,,,,,,
+1000656,KH0527,UR,"Museo Nac., Pueblo Libre",35,0.543,0,0,6,0.0,0.0,1.0,5,6,0.0,0.064,1.0,0.0,0.19,1.0
+1000658,KH0529,UR,"Museo Nac., Pueblo Libre",166,0.639,0,0,15,0.0,0.0,1.0,6,10,0.0,0.128,1.0,0.0,0.382,1.0
+1000659,KH0530,UR,"Museo Nac., Pueblo Libre",53,0.66,0,0,7,0.0,0.53,1.0,4,4,0.0,0.144,1.0,0.0,0.28,1.0
