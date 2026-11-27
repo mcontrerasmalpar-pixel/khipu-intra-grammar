@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or within-khipu grammar analysis, please cite this repository."
+title: "khipu-intra-grammar: Within-Khipu Structural Grammar in the Open Khipu Repository (OKR v2.1.0)"
+type: software
+date-released: "2026-11-27"
+license: MIT
+repository-code: "https://github.com/Disentangle-Lab/khipu-intra-grammar"
+authors:
+  - family-names: "Contreras"
+    given-names: "Maria"
+    affiliation: "Disentangle Lab"
+keywords:
+  - khipu
+  - quipu
+  - open-khipu-repository
+  - statistical-grammar
+  - digital-humanities
+references:
+  - type: dataset
+    title: "Open Khipu Repository (OKR v2.1.0)"
+    doi: "10.5281/zenodo.18025748"

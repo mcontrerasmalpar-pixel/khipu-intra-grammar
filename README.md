@@ -2,13 +2,13 @@
 
 **Within-khipu structural grammar in the Open Khipu Repository (OKR v2.1.0): color, spatial grouping, base-10 tabular homology, and null-calibrated sum detection.**
 
-Maria Contreras (Synapsa Strata Lab) · companion to [Khipu-ML](https://github.com/mcontrerasmalpar-pixel/Khipu-ML) ([arXiv:2607.00185](https://arxiv.org/abs/2607.00185)) · data [OKR v2.1.0](https://doi.org/10.5281/zenodo.18025748)
+Maria Contreras ([Disentangle Lab](https://github.com/Disentangle-Lab)) · companion to [Khipu-ML](https://github.com/Disentangle-Lab/Khipu-ML) ([arXiv:2607.00185](https://arxiv.org/abs/2607.00185)) · data [OKR v2.1.0](https://doi.org/10.5281/zenodo.18025748)
 
 ---
 
 ## Why intra-khipu?
 
-In our audit of *inter-khipu* clustering and provenance classification ([Khipu-ML](https://github.com/mcontrerasmalpar-pixel/Khipu-ML), arXiv:2607.00185 v2), corpus-wide clusters collapsed once empty records, unrecorded twist, and cataloger/museum confounds were controlled. Here we invert the design: **every khipu serves as its own paired control** via within-khipu permutation and circular-shift nulls across **512 khipus** ($\ge 10$ pendant cords; 38,854 pendants; 79.1% clean base-10 decimal decoding on knotted cords).
+In our audit of *inter-khipu* clustering and provenance classification ([Khipu-ML](https://github.com/Disentangle-Lab/Khipu-ML), arXiv:2607.00185 v2), corpus-wide clusters collapsed once empty records, unrecorded twist, and cataloger/museum confounds were controlled. Here we invert the design: **every khipu serves as its own paired control** via within-khipu permutation and circular-shift nulls across **512 khipus** ($\ge 10$ pendant cords; 38,854 pendants; 79.1% clean base-10 decimal decoding on knotted cords).
 
 ## Key results (`N_PERM = 1,000`, BH-FDR $q < 0.05$)
 
@@ -32,7 +32,7 @@ In our audit of *inter-khipu* clustering and provenance classification ([Khipu-M
 ## Reproduce
 
 ```bash
-git clone https://github.com/mcontrerasmalpar-pixel/khipu-intra-grammar.git
+git clone https://github.com/Disentangle-Lab/khipu-intra-grammar.git
 cd khipu-intra-grammar
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
