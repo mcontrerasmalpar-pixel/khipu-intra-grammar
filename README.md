@@ -1,5 +1,7 @@
 # khipu-intra-grammar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24619730.svg)](https://doi.org/10.5281/zenodo.24619730)
+
 **Within-khipu structural grammar in the Open Khipu Repository (OKR v2.1.0): color, spatial grouping, base-10 tabular homology, and null-calibrated sum detection.**
 
 Maria Contreras ([Disentangle Lab](https://github.com/Disentangle-Lab)) · companion to [Khipu-ML](https://github.com/Disentangle-Lab/Khipu-ML) ([arXiv:2607.00185](https://arxiv.org/abs/2607.00185)) · data [OKR v2.1.0](https://doi.org/10.5281/zenodo.18025748)
